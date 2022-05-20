@@ -1,6 +1,6 @@
 using System;
 
-class Result
+public class Result
 {
     public static void fizzBuzz(int n)
     {
@@ -23,7 +23,7 @@ class Result
     }
 }
 
-class Solution
+public class Solution
 {
     public static void Main(string[] args)
     {
